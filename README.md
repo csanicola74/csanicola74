@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csanicola74" alt="csanicola74" /></a> </p>
 
-- 🔭 I’m currently working on [web-scraping](https://github.com/csanicola74/web-scraping)
+- 🔭 I’m currently working on **Creating Custom Patient Portals and Deploying them for Practical Use**
 
-- 🌱 I’m currently learning **everything....but mostly python right now**
+- 🌱 I’m currently learning **statistics & programming**
 
 - 📫 How to reach me **carolinesanicola@gmail.com**
 
