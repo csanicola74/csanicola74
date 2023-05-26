@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Caroline</h1>
-<h3 align="center">A masters student new to coding but already very passionate about it</h3>
+<h3 align="center">A have a passion for data, organization, healthcare, and visualizations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csanicola74&label=Profile%20views&color=0e75b6&style=flat" alt="csanicola74" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csanicola74" alt="csanicola74" /></a> </p>
 
-- 🔭 I’m currently working on **Creating Custom Patient Portals and Deploying them for Practical Use**
+- 🔭 I’m currently working on [My Patient Engagement Capstone Project](https://github.com/csanicola74/patient-engagement)
 
-- 🌱 I’m currently learning **statistics & programming**
+- 🌱 I’m currently learning **ML Models and Prediction Analysis**
 
 - 📫 How to reach me **carolinesanicola@gmail.com**
 
-- ⚡ Fun fact **but have you seen how many movies I've seen this year so far?**
+- ⚡ Fun fact **I read over 150 books in 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
