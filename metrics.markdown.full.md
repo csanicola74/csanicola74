@@ -21,13 +21,13 @@ ___
 ___
 
 **[🗼 Rss feed from Hacker News](https://news.ycombinator.com/)**
-* [OpenLLM](https://github.com/bentoml/OpenLLM)
+* [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
   * *Published on 19 Jun 2023*
-* [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
-  * *Published on 18 Jun 2023*
-* [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
+* [ELO Everything](https://eloeverything.co/)
   * *Published on 19 Jun 2023*
-* [Plain Text Journaling in Vim](https://peppe.rs/posts/plain_text_journaling/)
+* [When Dying Patients Want Unproven Drugs](https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval)
+  * *Published on 19 Jun 2023*
+* [How to ramp up a factory consuming a lot of energy?](https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy)
   * *Published on 19 Jun 2023*
 
 
