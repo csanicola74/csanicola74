@@ -25,9 +25,9 @@ ___
   * *Published on 19 Jun 2023*
 * [ELO Everything](https://eloeverything.co/)
   * *Published on 19 Jun 2023*
-* [How to ramp up a factory consuming a lot of energy?](https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy)
-  * *Published on 19 Jun 2023*
 * [When Dying Patients Want Unproven Drugs](https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval)
+  * *Published on 19 Jun 2023*
+* [How to ramp up a factory consuming a lot of energy?](https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy)
   * *Published on 19 Jun 2023*
 
 
