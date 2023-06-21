@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 181.3 kB Used in GitHub's Storage 
+> 📦 190.6 kB Used in GitHub's Storage 
  > 
 > 🏆 110 Contributions in the Year 2023
  > 
@@ -46,23 +46,22 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 54 mins       █████████████████░░░░░░░░   66.96 % 
-YAML                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   4 hrs 31 mins       ████████████████░░░░░░░░░   65.26 % 
+YAML                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-patient-engagement       4 hrs 32 mins       ████████████████░░░░░░░░░   62.06 % 
-csanicola74              2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
-Amy Resident Discriminati21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+patient-engagement       4 hrs 31 mins       ████████████████░░░░░░░░░   65.26 % 
+csanicola74              2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
 opencommit               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Important_Reference_Repo 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  7 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +80,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2023 18:32:23 UTC
+ Last Updated on 21/06/2023 18:32:48 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
