@@ -5,13 +5,13 @@
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=csanicola74&show_icons=true&theme=city_lights)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 192.2 kB Used in GitHub's Storage 
+> 📦 212.4 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2023
+> 🏆 127 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌆 Daytime                131 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
-🌃 Evening                136 commits         ██████████░░░░░░░░░░░░░░░   40.48 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   39.00 % 
+🌃 Evening                138 commits         ██████████░░░░░░░░░░░░░░░   40.47 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   71 commits          █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Tuesday                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Saturday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Monday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Tuesday                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Saturday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Sunday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 ```
 
 
@@ -46,21 +46,23 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   9 hrs 22 mins       █████████████████████░░░░   82.96 % 
-HTML                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   15 hrs 3 mins       ██████████████████████░░░   88.37 % 
+HTML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-patient-engagement       10 hrs 16 mins      ███████████████████████░░   90.94 % 
-spotify-ALLNewMusicFriday1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+patient-engagement       15 hrs 31 mins      ███████████████████████░░   91.17 % 
+spotify-ALLNewMusicFriday1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Important_Reference_Repo 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 💻 Operating System: 
-Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 17 mins      █████████████████░░░░░░░░   66.31 % 
+Mac                      5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.69 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +81,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2023 18:34:01 UTC
+ Last Updated on 03/07/2023 18:35:59 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
