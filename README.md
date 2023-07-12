@@ -5,13 +5,13 @@
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=csanicola74&show_icons=true&theme=city_lights)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2033%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 209.6 kB Used in GitHub's Storage 
+> 📦 212.5 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2023
+> 🏆 128 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   39.00 % 
-🌃 Evening                138 commits         ██████████░░░░░░░░░░░░░░░   40.47 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+🌞 Morning                65 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+🌆 Daytime                133 commits         ██████████░░░░░░░░░░░░░░░   38.89 % 
+🌃 Evening                138 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Tuesday                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Wednesday                67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Saturday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Sunday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Monday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Tuesday                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Wednesday                68 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Saturday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Sunday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 ```
 
 
@@ -74,7 +74,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2023 18:37:29 UTC
+ Last Updated on 12/07/2023 18:37:24 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
