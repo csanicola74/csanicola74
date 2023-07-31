@@ -5,11 +5,11 @@
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=csanicola74&show_icons=true&theme=city_lights)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2021%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 279.9 kB Used in GitHub's Storage 
+> 📦 269.0 kB Used in GitHub's Storage 
  > 
 > 🏆 173 Contributions in the Year 2023
  > 
@@ -46,20 +46,20 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 36 mins       ███████████████████████░░   90.78 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   4 hrs 43 mins       ███████████████████████░░   90.99 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-patient-engagement       4 hrs 46 mins       ███████████████████████░░   93.84 % 
-Discord Bots             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+patient-engagement       4 hrs 53 mins       ███████████████████████░░   93.98 % 
+Discord Bots             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +78,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2023 18:32:43 UTC
+ Last Updated on 31/07/2023 18:32:50 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
