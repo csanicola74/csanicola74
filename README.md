@@ -9,34 +9,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 270.0 kB Used in GitHub's Storage 
+> 📦 279.2 kB Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2023
+> 🏆 194 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                73 commits          █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-🌆 Daytime                169 commits         ███████████░░░░░░░░░░░░░░   42.68 % 
-🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+🌞 Morning                76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+🌆 Daytime                176 commits         ███████████░░░░░░░░░░░░░░   43.35 % 
+🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   36.45 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Wednesday                86 commits          █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Thursday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Saturday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Sunday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Monday                   83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Wednesday                93 commits          ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 ```
 
 
@@ -46,20 +46,22 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   5 hrs 19 mins       ██████████████████████░░░   89.77 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   5 hrs 19 mins       █████████████████████░░░░   84.32 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-patient-engagement       5 hrs 36 mins       ████████████████████████░   94.72 % 
-Discord Bots             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+patient-engagement       5 hrs 36 mins       ██████████████████████░░░   88.96 % 
+CS50x_2023               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Discord Bots             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +81,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2023 18:32:52 UTC
+ Last Updated on 03/08/2023 18:32:51 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
