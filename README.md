@@ -5,13 +5,13 @@
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=csanicola74&show_icons=true&theme=city_lights)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 279.0 kB Used in GitHub's Storage 
+> 📦 290.2 kB Used in GitHub's Storage 
  > 
-> 🏆 196 Contributions in the Year 2023
+> 🏆 197 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-🌆 Daytime                177 commits         ███████████░░░░░░░░░░░░░░   43.49 % 
-🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌞 Morning                76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌆 Daytime                178 commits         ███████████░░░░░░░░░░░░░░   43.63 % 
+🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   36.27 % 
 🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Wednesday                94 commits          ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Monday                   83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 ```
 
 
@@ -46,28 +46,27 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 19 mins             ██████████████████████░░░   86.59 % 
-C                        3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   43 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS50x_2023               23 mins             █████████████████████████   100.00 % 
+CDC-ATSDR-SVI-Match      43 mins             █████████████████████████   98.90 % 
+ahi-competition          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ███████████████░░░░░░░░░░   59.46 % 
-Jupyter Notebook         9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   22 repos            ██████████████░░░░░░░░░░░   57.89 % 
+Jupyter Notebook         10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
@@ -77,7 +76,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2023 18:35:27 UTC
+ Last Updated on 10/08/2023 18:33:01 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
