@@ -5,38 +5,38 @@
 ![Caroline's GitHub stats](https://github-readme-stats.vercel.app/api?username=csanicola74&show_icons=true&theme=city_lights)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 295.8 kB Used in GitHub's Storage 
+> 📦 305.3 kB Used in GitHub's Storage 
  > 
-> 🏆 198 Contributions in the Year 2023
+> 🏆 200 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                77 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-🌆 Daytime                178 commits         ███████████░░░░░░░░░░░░░░   43.52 % 
-🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   36.19 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+🌞 Morning                78 commits          █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+🌆 Daytime                178 commits         ███████████░░░░░░░░░░░░░░   43.41 % 
+🌃 Evening                148 commits         █████████░░░░░░░░░░░░░░░░   36.10 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   84 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Monday                   85 commits          █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Tuesday                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Saturday                 24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 
 
@@ -46,27 +46,29 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   98.17 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Python                   6 mins              █████████████████████████   99.39 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CDC-ATSDR-SVI-Match      2 mins              █████████████████████████   100.00 % 
+Book ISBNs               4 mins              █████████████████░░░░░░░░   66.54 % 
+CDC-ATSDR-SVI-Match      2 mins              ████████░░░░░░░░░░░░░░░░░   33.46 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████░░░░░░░░   66.54 % 
+Windows                  2 mins              ████████░░░░░░░░░░░░░░░░░   33.46 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ██████████████░░░░░░░░░░░   57.89 % 
-Jupyter Notebook         10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   23 repos            ███████████████░░░░░░░░░░   58.97 % 
+Jupyter Notebook         10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -76,7 +78,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2023 18:32:47 UTC
+ Last Updated on 21/08/2023 18:33:10 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
