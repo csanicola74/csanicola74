@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 306.8 kB Used in GitHub's Storage 
+> 📦 297.3 kB Used in GitHub's Storage 
  > 
 > 🏆 210 Contributions in the Year 2023
  > 
@@ -46,23 +46,23 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       █████████████████░░░░░░░░   66.27 % 
-ActionScript 3           56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-RMarkdown                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-R                        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Assembly                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   5 hrs 39 mins       ████████████████████░░░░░   79.35 % 
+ActionScript 3           56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+RMarkdown                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+R                        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Assembly                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SPARCS                   2 hrs 36 mins       ███████████████░░░░░░░░░░   59.62 % 
-Important_Reference_Repo 1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.15 % 
-patient-engagement       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+SPARCS                   5 hrs 21 mins       ███████████████████░░░░░░   75.28 % 
+Important_Reference_Repo 1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+patient-engagement       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Windows                  3 hrs 1 min         █████████████████░░░░░░░░   69.35 % 
-Mac                      1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.65 % 
+Windows                  5 hrs 47 mins       ████████████████████░░░░░   81.23 % 
+Mac                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +82,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2023 18:33:43 UTC
+ Last Updated on 30/08/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
