@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 308.4 kB Used in GitHub's Storage 
+> 📦 298.2 kB Used in GitHub's Storage 
  > 
 > 🏆 210 Contributions in the Year 2023
  > 
@@ -46,22 +46,16 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   5 hrs 22 mins       ███████████████████████░░   92.97 % 
-RMarkdown                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Assembly                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-R                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-ActionScript 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SPARCS                   5 hrs 21 mins       ███████████████████████░░   92.67 % 
-Important_Reference_Repo 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-patient-engagement       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+SPARCS                   2 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +75,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2023 18:33:50 UTC
+ Last Updated on 05/09/2023 18:33:31 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
