@@ -9,9 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 324.8 kB Used in GitHub's Storage 
+> 📦 315.9 kB Used in GitHub's Storage 
  > 
-> 🏆 251 Contributions in the Year 2023
+> 🏆 252 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-🌆 Daytime                201 commits         ███████████░░░░░░░░░░░░░░   43.79 % 
-🌃 Evening                152 commits         ████████░░░░░░░░░░░░░░░░░   33.12 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+🌞 Morning                100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌆 Daytime                202 commits         ███████████░░░░░░░░░░░░░░   43.91 % 
+🌃 Evening                152 commits         ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Tuesday                  69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Wednesday                96 commits          █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Monday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday                  69 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                96 commits          █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Friday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 ```
 
 
@@ -46,16 +46,17 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   33 mins             ████████████████████░░░░░   81.34 % 
+HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SPARCS                   41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +76,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2023 18:34:42 UTC
+ Last Updated on 18/11/2023 18:32:45 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
