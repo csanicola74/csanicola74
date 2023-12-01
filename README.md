@@ -9,34 +9,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 321.5 kB Used in GitHub's Storage 
+> 📦 330.8 kB Used in GitHub's Storage 
  > 
-> 🏆 258 Contributions in the Year 2023
+> 🏆 260 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                104 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-🌆 Daytime                204 commits         ███████████░░░░░░░░░░░░░░   43.78 % 
-🌃 Evening                152 commits         ████████░░░░░░░░░░░░░░░░░   32.62 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+🌞 Morning                105 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌆 Daytime                204 commits         ███████████░░░░░░░░░░░░░░   43.68 % 
+🌃 Evening                152 commits         ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Tuesday                  72 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Wednesday                98 commits          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Friday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Monday                   93 commits          █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Tuesday                  72 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Wednesday                98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Thursday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Friday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 
 
@@ -75,7 +75,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 18:34:58 UTC
+ Last Updated on 01/12/2023 18:34:28 UTC
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/csanicola74?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&achievements=1&activity=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&gists=false&config.timezone=America%2FNew_York)
