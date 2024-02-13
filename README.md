@@ -28,7 +28,6 @@ EJS                      1 repo              █░░░░░░░░░░�
 ```
 
 
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/csanicola74/csanicola74/main/assets/bar_graph.png)
